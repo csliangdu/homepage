@@ -1,0 +1,22 @@
+body {
+	color: #000000;
+	background-color: #FFFFFF;
+	margin: 15px 50px 15px 50px;
+}
+
+img {
+	vertical-align: middle;
+	border: 0;
+}
+
+a.intlink {
+	color: #008000;
+}
+
+h3, h4 {
+	font-family: sans-serif;
+}
+
+hr {
+	height: 1px;
+}

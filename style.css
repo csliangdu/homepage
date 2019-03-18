@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+/* CSS Document */
+* {padding:0px; 
+margin:0; 
+font-size:16px;
+  font-family: "Times New Roman", "Î¢ÈíÑÅºÚ","ºÚÌå";
+}
+img {border:0;}
+
+ul {list-style:none;}
+ol {list-style-type:decimal;}
+ol {text-align:justify; padding:0px 0 0px 0;} 
+li {text-align:justify; padding:0px 20px 0px 0px;}
+a, a:hover {text-decoration:none; color:#202020; border-bottom:1px dashed #bbbbff;}
+a:hover {color:#ff0000;}
+
+/* body {background:white url("pic/iscaslogo2.gif") repeat;}  */
+div {padding:10px 0; text-align:justify;}
+.clear {clear:both;}
+
+.center {margin:0 auto; width:70%; height:100%;}
+.section {margin:0px 0 0px 0;}
+.title {font-weight:bold; font-size:150%; padding:10px 0;}
+
+.map div {float:left; text-align:center;}
+.map iframe {width:550px; height:350px; border:0; overflow:hidden;}
+
+.left{float:left;}
+.right{float:right;}
+
+#name .title {font-size:250%; padding:20px 0;}
+#name .right {width:208px; height:263px; line-height:263px; background:url("photo/x.jpg"); margin:40px 0 0 0;}
+#copyright div, #copyright div a {text-align:center; font-size:14px;}
+#copyright div {color:#0000ff;}
+
+#warp {
+	width: 860px;
+	margin: 15px auto 15px auto;
+	border: 1px #aaa solid;
+	padding: 15px 25px 10px 20px;
+	background: #fff;
+	border-radius: 10px;
+	box-shadow: 3px 3px 10px #999999;
+}
